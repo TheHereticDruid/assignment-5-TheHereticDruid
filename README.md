@@ -17,3 +17,5 @@ If you want to see the notebook as a slide show use the following instruction in
 ### Lab session
 
 The lab session is [here](instructions_lab_w5.md)
+
+This is the fifth assignment of the Machine Learning module, done by me
